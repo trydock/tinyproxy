@@ -1,3 +1,3 @@
-# TinyproxyA
+# Tinyproxy
 
 Tinyproxy on Alpine Linux
